@@ -18,6 +18,10 @@ public class BufferAndBuilder {
 		StringBuffer buffer=new StringBuffer("Priya");
 	//created String buffer with variable buffer
 		System.out.println("It gives the output has:"+buffer);
+		//system is final class
+//out is a static member of system class and type printStream
+//println is method of printStream class.ln means nextline
+	
 		//here it prints the buffer value
 		System.out.println("The length is:"+buffer.length());
 		//here it prints the buffer length which is 5
